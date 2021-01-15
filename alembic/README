@@ -1,0 +1,6 @@
+Generic single-database configuration.
+数据库迁移功能模块
+
+需要修改
+/Ad Editor/config/model_setting.bak -> /Ad Editor/config/model_setting.py
+并设置为相对应的数据库
